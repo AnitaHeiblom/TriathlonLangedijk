@@ -54,7 +54,7 @@
 </div>
 
 
-<div class="row">
+<div class="row no-gutters">
     <div class="col col-lg-4">
         <hr class="blue">
     </div>
@@ -82,7 +82,7 @@
                     <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item active dropdown">
-                    <a class="nav-link" href="inschrijving.html">Inschrijving <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="inschrijving.php">Inschrijving <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Organisatie <span class="sr-only">(current)</span></a>
@@ -153,7 +153,7 @@
 </div>
     <div class="footer">
 
-        <div class="row">
+        <div class="row no-gutters">
             <div class="col col-lg-4">
                 <hr class="blue">
             </div>
