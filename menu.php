@@ -1,7 +1,7 @@
 
 <!--navigatie moet boven aan de pagina blijven als je naar beneden scrollt-->
 
-<nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
         <a class="navbar-brand" href="index.php">Triathlon Langedijk</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
