@@ -34,7 +34,7 @@
                 <img class="img-fluid mx-auto d-block" src="images/zwemmen.jpg" alt="Zwemmen">
             </div>
             <div class="carousel-item col-12 col-md-4">
-                <img class="img-fluid mx-auto d-block" src="images/fietsen.jpg" alt="Fietsen">
+                <img class="img-fluid mx-auto d-block" src="images/fietsen3.jpg" alt="Fietsen">
             </div>
             <div class="carousel-item col-12 col-md-4">
                 <img class="img-fluid mx-auto d-block" src="images/lopen.jpg" alt="Lopen">
