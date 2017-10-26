@@ -20,8 +20,10 @@
                 </p>
 
                 <h3>Zwemparcours</h3>
+                <div class="maps-container">
                 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1jTby0K02_bTbke1fUir3CyWH3PU" width="640"
                         height="480"></iframe>
+                </div>
                 <p>
                 <ol>
                     <li>Start is bij de sluis</li>
@@ -32,8 +34,10 @@
                 De deelnemers moeten rechts van de zwemlijnen zwemmen.</p>
 
                 <h3>Fietsparcours</h3>
-                <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1edenknYIIwfPFl8t-ubCKvrpHOs" width="640"
+                <div class="maps-container">
+                    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1edenknYIIwfPFl8t-ubCKvrpHOs" width="640"
                         height="480"></iframe>
+                </div>
                 <p>
                 <ol>
                     <li>Vanuit de wisselzone rechtsaf richting de oude Provinciale weg</li>
@@ -46,8 +50,10 @@
                 toerijden. De deelneers moeten zoveel mogelijk links rijden.</p>
 
                 <h3>Loopparcours</h3>
+                <div class="maps-container">
                 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PzIT3E1OoO44yTGyg1GNnAXUrAQ" width="640"
                         height="480"></iframe>
+                </div>
                 <p>
                 <ol>
                     <li>Vanuit de wisselzone rechts richting het fietspad</li>
