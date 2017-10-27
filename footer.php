@@ -13,7 +13,16 @@
             </div>
         </div>
         <div class="container">
-            <div class="row">
+            <div class="row footer-content">
+                <div class="col col-lg-4">
+                    <a href="mailto:triathlonlangedijk@hotmail.com"><i class="fa fa-envelope"
+                                                                       aria-hidden="true"></i></a>
+                </div>
+                <div class="col col-lg-4">
+                </div>
+                <div class="col col-lg-4">
+                    <p>Webdesign by Anita Heiblom</p>
+                </div>
             </div>
         </div>
     </div>

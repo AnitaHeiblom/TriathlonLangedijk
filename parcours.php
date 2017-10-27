@@ -47,7 +47,7 @@
                     <li>Waarddijk uitrijden tot aan Provinciale weg</li>
                 </ol>
                 Er dienen 4 rondes gereden te worden. Na het 4<sup>e</sup> rondje rechtsaf slaan en naar de wisselzone
-                toerijden. De deelneers moeten zoveel mogelijk links rijden.</p>
+                toerijden. De deelnemers moeten zoveel mogelijk links rijden.</p>
 
                 <h3>Loopparcours</h3>
                 <div class="maps-container">
@@ -62,7 +62,7 @@
                     <li>Omkeren en teruglopen over de Dorpsstraat tot aan de Spoorstraat</li>
                     <li>Rechtsaf de Spoorstraat inlopen en dan uitlopen tot aan de finish</li>
                 </ol>
-                De deelneers moeten zoveel mogelijk <strong>links</strong> van de weg blijven lopen.</p>
+                De deelnemers moeten zoveel mogelijk <strong>links</strong> van de weg blijven lopen.</p>
 
 
             </div>
