@@ -21,9 +21,10 @@
 
 <div class="white-bar">
     <div class="container">
-        <a href="https://www.facebook.com/zwefilo/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-        <a href="https://twitter.com/zwefilo"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-        <a href="https://www.youtube.com/channel/UCvcPU9wPOFJsHIDqAlDSPow"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+        <a href="https://www.facebook.com/zwefilo/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+        <a href="https://twitter.com/zwefilo" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+        <a href="https://www.youtube.com/channel/UCvcPU9wPOFJsHIDqAlDSPow" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+        <a href="mailto:triathlonlangedijk@hotmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </div>
 </div>
 

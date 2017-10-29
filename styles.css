@@ -55,8 +55,7 @@ a i {
     padding-left: 5px;
 }
 
-
-a:link {
+a {
     color: #0ABCDB;
 }
 
@@ -93,7 +92,7 @@ a:hover {
     padding-left: 50px;
     padding-right: 50px;
     text-transform: uppercase;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
 }
 
 .dropdown-menu.show {
@@ -167,6 +166,11 @@ td {
     height: 100%;
 }
 
+.logo img {
+    width: 100%;
+    padding: 1%;
+}
+
 .footer {
     Background: #000;
     color: lightgrey;
@@ -176,10 +180,6 @@ td {
 
 .footer-content {
     padding-top: 2rem;
-}
-
-.footer i {
-    font-size: 1.5rem;
 }
 
  @media (min-width: 600px) {
