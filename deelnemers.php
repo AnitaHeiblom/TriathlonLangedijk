@@ -9,6 +9,7 @@
             <div class="col-12 col-lg-8 col-md-9 col-sm-12">
                 <h2>Deelnemers</h2>
                 <p>
+                    Hier kun je vanaf de datum van inschrijving de actuele deelnemerslijsten voor de individuele serie en de duo&rsquo;s/trio&rsquo;s vinden.
                 </p>
             </div>
                 <div class="col-12 col-lg-4 col-md-3 sm-12">
