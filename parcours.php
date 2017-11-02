@@ -21,7 +21,7 @@
 
                 <h3>Zwemparcours</h3>
                 <div class="maps-container">
-                    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1jTby0K02_bTbke1fUir3CyWH3PU" width="640"
+                    <iframe src="https://www.google.com/maps/d/embed?mid=180ahx2PopqDdr8ORhAi_rw4tgajFgTE4" width="640"
                             height="480"></iframe>
                 </div>
                 <p>
@@ -35,7 +35,7 @@
 
                 <h3>Fietsparcours</h3>
                 <div class="maps-container">
-                    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1edenknYIIwfPFl8t-ubCKvrpHOs" width="640"
+                    <iframe src="https://www.google.com/maps/d/embed?mid=1GHnVkSshT97ASLk6qsixq8OOWdiVvxAq" width="640"
                             height="480"></iframe>
                 </div>
                 <p>
@@ -51,7 +51,7 @@
 
                 <h3>Loopparcours</h3>
                 <div class="maps-container">
-                    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PzIT3E1OoO44yTGyg1GNnAXUrAQ" width="640"
+                    <iframe src="https://www.google.com/maps/d/embed?mid=1_o8GdmoKFAsIt8mEWHgWKBTHpaLsL9Tg" width="640"
                             height="480"></iframe>
                 </div>
                 <p>

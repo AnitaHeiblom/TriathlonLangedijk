@@ -118,7 +118,7 @@
                         <li>Mogelijkheid tot plaatsing van &#40;eigen&#41; sponsorbord in het Parc Ferm&eacute; &#40;ca
                             100cm hoog en 300cm breed&#41;
                         </li>
-                        <li>Naamvermelding door omroeper</li>
+                        <li>Naamsvermelding door omroeper</li>
                         <li>Logo in het programmaboekje</li>
                         <li>Naamsvermelding in alle communicatie-uitingen &#40;poster&#47;advertentie&#47;social
                             media&#47;persberichten&#47;berichten deelnemers&#41;
