@@ -7,7 +7,7 @@
     <div class="main-content">
         <div class="row">
             <div class="col-12 col-lg-8 col-md-9 col-sm-12">
-                <h2>Foto&rsquo;s</h2>
+                <h2>Foto&rsquo;s Triathlon Langedijk</h2>
                 <h4>
                     <a href="https://photos.google.com/share/AF1QipOnONw26wSNVDt5YvZ5W0tsLK7dMx_oNAE7MJdOINkR3D_6Y_tOcuKnFPUldZQ6sA?key=cUlMVUIwd2RjTzJTaG1aRUNwTWYyZ05fMjZRZERn"
                        target="_blank">Foto&rsquo;s 2017</a></h4>

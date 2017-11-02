@@ -15,7 +15,7 @@
                     vanaf het keerpunt lopen we dan terug naar de Spoorstraat. dan lopen we de spoorstraat in richting
                     de finish.
                     <br>
-                    Hieronder treft u de omschrijvingen van het parcours. Lees deze informatie goed door zodat u als
+                    Hieronder tref je de omschrijvingen van het parcours. Lees deze informatie goed door zodat je als
                     deelnemer tijdens de triatlon niet voor verassingen komt te staan.
                 </p>
 
@@ -28,7 +28,7 @@
                 <ol>
                     <li>Start is bij de sluis</li>
                     <li>250m rechtdoor zwemmen tot aan het keerpunt</li>
-                    <li>Na keerpunt terugzwemmen naar steiger bij &ldquo;De Buizerd&rdquo;</li>
+                    <li>Na keerpunt terugzwemmen naar steiger bij De Buizerd</li>
                     <li>Uit het water bij de steiger en wisselen in de wisselzone</li>
                 </ol>
                 De deelnemers moeten rechts van de zwemlijnen zwemmen.</p>

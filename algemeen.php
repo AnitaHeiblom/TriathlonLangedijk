@@ -13,7 +13,7 @@
                         <time datetime="2018-06-20"> woensdagavond 20 juni 2018</time>
                     </strong> in Oudkarspel, gemeente Langedijk.
                     <br>
-                    De individuele sessie van de heren start om 19.30 uur. De damen, clinicdeelnemers en trio&rsquo;s
+                    De individuele sessie van de heren start om 19.30 uur. De dames, clinicdeelnemers en trio&rsquo;s
                     een
                     kwartier later, om 19.45 uur.
                     <br>
@@ -24,10 +24,10 @@
                 <p>De start en finish van het evenement zijn bij Hotel Restaurant &ldquo;De Buizerd&rdquo; aan de
                     Spoorstraat in Noord-Scharwoude. Hier is ook de wisselzone.
                     <br>
-                    Het zwemmen zal zijn direct voor &ldquo;De Buizerd&rdquo; in het kanaal Alkmaar&ndash;Kolhorn. Daarna
+                    Het zwemmen zal zijn direct voor De Buizerd in het kanaal Alkmaar&ndash;Kolhorn. Daarna
                     wordt er gefietst op een parcours aan de overzijde van het kanaal waarbij de deelnemers een viertal
                     ronden moeten afleggen. Als laatste wordt er gelopen door de Spoortstraat en de Dorpsstraat in
-                    Oudkarspel met finish direct voor &ldquo;De Buizerd&rdquo;.</p>
+                    Oudkarspel met finish direct voor De Buizerd.</p>
 
                 <h3>Tijden wedstrijddag</h3>
                 <p>
@@ -73,12 +73,12 @@
 
                 <h3>Belangrijke informatie</h3>
                 <h4>Briefing</h4>
-                <p>Viftien minuten voor de start van de individuele serie zal nog de laatste algemene en specifieke
+                <p>Vijftien minuten voor de start van de individuele serie zal nog de laatste algemene en specifieke
                     informatie worden verstrekt. Deze briefing vindt plaats bij de start van het zwemonderdeel, voor
-                    &ldquo;De Buizerd&rdquo;. Alle deelnemers wordt verzocht hierbij aanwezig te zijn.</p>
+                    De Buizerd. Alle deelnemers wordt verzocht hierbij aanwezig te zijn.</p>
 
                 <h4>Het inschrijfbureau</h4>
-                <p>Het inshrijfbureau bevindt zich in &ldquo;De Buizerd&rdquo; en is vanaf 18.15 uur geopend. De
+                <p>Het inshrijfbureau bevindt zich in De Buizerd en is vanaf 18.15 uur geopend. De
                     deelnemers dienen zich hier uiterlijk een half uur voor de start te melden.
                     <br>
                     Bij het inschrijfbureau zijn veiligheidsspelden verkrijgbaar voor het bevestigen van het
@@ -89,7 +89,7 @@
                 </p>
 
                 <h4>Kleed&ndash; en douchegelegenheid</h4>
-                <p>Omkleden kan in &ldquo;De Buizerd&rdquo;. Er staat een douchewagen met vier douches en een toilet
+                <p>Omkleden kan in De Buizerd. Er staat een douchewagen met vier douches en een toilet
                     waarvan na de wedstrijd gebruik kan worden gemaakt.</p>
 
                 <h4>Startnummer</h4>
@@ -120,7 +120,7 @@
 
                 <h4>EHBO</h4>
                 <p>Tijdens de gehele wedstrijd zijn er BHV&ndash;ers aanwezig op het parcours. Hoofdsteunpunt is bij de
-                    ingang van de wisselzone naast &ldquo;De Buizerd&rdquo;.</p>
+                    ingang van de wisselzone naast De Buizerd.</p>
 
                 <h4>Fiets ophalen</h4>
                 <p>Na afloop van de wedstrijd kan elke deelnemer zijn of haar fiets op vertoon van het startnummer
@@ -142,7 +142,7 @@
 
                 <h4>Annuleren deelname</h4>
                 <p>Indien je, om welke reden dan ook, vooraf al besluit af te zien van deelname (en je hebt je wel
-                    aangemeld), dan wordt je verzocht dit kenbaar te maken aan de organisatie. Het telefoonnummer van
+                    aangemeld), dan word je verzocht dit kenbaar te maken aan de organisatie. Het telefoonnummer van
                     het inschrijfbureau is 06&ndash;50 51 75 51. Als je tijdig belt kunnen atleten die op de wachtlijst
                     staan alsnog worden ingeschreven. Houd hier alsjeblieft rekening mee.</p>
 

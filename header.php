@@ -43,7 +43,6 @@
     </div>
 </div>
 
-
 <div class="row no-gutters">
     <div class="col col-lg-4">
         <hr class="blue">

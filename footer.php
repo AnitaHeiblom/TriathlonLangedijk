@@ -18,6 +18,7 @@
 
                 </div>
                 <div class="col col-lg-4">
+
                 </div>
                 <div class="col col-lg-4">
                     <p>Webdesign by Anita Heiblom</p>
