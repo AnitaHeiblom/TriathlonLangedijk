@@ -9,22 +9,13 @@
             <div class="col-12 col-lg-8 col-md-9 col-sm-12">
                 <h2>Deelnemers</h2>
                 <p>
-                    Hier kun je vanaf de datum van inschrijving de actuele deelnemerslijsten voor de individuele serie en de duo&rsquo;s/trio&rsquo;s vinden.
+                    Hier kun je vanaf de datum van inschrijving de actuele deelnemerslijsten voor de individuele serie
+                    en de duo&rsquo;s/trio&rsquo;s vinden.
                 </p>
             </div>
-                <div class="col-12 col-lg-4 col-md-3 sm-12">
-                    <div class="side-bar">
-                    <h2>Nieuws</h2>
-                    <p>Incididunt sirloin chicken biltong do aliqua doner bacon kevin shoulder dolore. Cillum ullamco
-                        t-bone, ball tip pancetta dolor tempor corned beef aute pork chop. Labore commodo strip steak
-                        chuck, dolore alcatra burgdoggen ut. Pancetta exercitation sed shankle bacon ipsum laborum pork
-                        chop biltong qui t-bone occaecat nostrud. In incididunt ham hock, dolore lorem occaecat
-                        cupidatat venison boudin deserunt short ribs in hamburger velit magna. Shank turducken
-                        landjaeger alcatra non qui kielbasa in hamburger picanha laboris meatball doner labore.</p>
-                </div>
-                </div>
+            <?php require 'sidebar.php' ?>
         </div>
-</div>
+    </div>
 
-<?php require 'footer.php' ?>
+    <?php require 'footer.php' ?>
 </html>

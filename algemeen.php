@@ -147,27 +147,22 @@
                     staan alsnog worden ingeschreven. Houd hier alsjeblieft rekening mee.</p>
 
                 <h4>Vrijwilligers</h4>
-                <p>Er is een zeer groot aantal vrijwilligers betrokken bij de beveiliging van het parcours en bij diverse andere zaken. Hun aanwijzingen dienen strikt opgevolgd te worden. De vrijwilligers zijn herkenbaar aan een oranje hesje met de bedrukking ZWEFILO, een verkeersregelaarshesje of een organisatie t&ndash;shirt.
+                <p>Er is een zeer groot aantal vrijwilligers betrokken bij de beveiliging van het parcours en bij
+                    diverse andere zaken. Hun aanwijzingen dienen strikt opgevolgd te worden. De vrijwilligers zijn
+                    herkenbaar aan een oranje hesje met de bedrukking ZWEFILO, een verkeersregelaarshesje of een
+                    organisatie t&ndash;shirt.
                 </p>
 
                 <h4>Verzorging</h4>
-                <p>Tijdens het lopen wordt bij het keerpunt water en bij de finish water, sportdrank, fruit en snoep uitgedeeld.</p>
+                <p>Tijdens het lopen wordt bij het keerpunt water en bij de finish water, sportdrank, fruit en snoep
+                    uitgedeeld.</p>
 
                 <h4>Staken wedstrijd</h4>
-                <p>Een deelnemer die de wedstrijd staakt dient dit onmiddellijk door te geven aan de wedstrijdleiding en daarbij zijn/haar startnummer en chip af te geven.</p>
+                <p>Een deelnemer die de wedstrijd staakt dient dit onmiddellijk door te geven aan de wedstrijdleiding en
+                    daarbij zijn/haar startnummer en chip af te geven.</p>
 
             </div>
-            <div class="col-12 col-lg-4 col-md-3 sm-12">
-                <div class="side-bar">
-                    <h2>Nieuws</h2>
-                    <p>Incididunt sirloin chicken biltong do aliqua doner bacon kevin shoulder dolore. Cillum ullamco
-                        t-bone, ball tip pancetta dolor tempor corned beef aute pork chop. Labore commodo strip steak
-                        chuck, dolore alcatra burgdoggen ut. Pancetta exercitation sed shankle bacon ipsum laborum pork
-                        chop biltong qui t-bone occaecat nostrud. In incididunt ham hock, dolore lorem occaecat
-                        cupidatat venison boudin deserunt short ribs in hamburger velit magna. Shank turducken
-                        landjaeger alcatra non qui kielbasa in hamburger picanha laboris meatball doner labore.</p>
-                </div>
-            </div>
+            <?php require 'sidebar.php' ?>
         </div>
     </div>
 

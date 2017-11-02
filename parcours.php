@@ -21,8 +21,8 @@
 
                 <h3>Zwemparcours</h3>
                 <div class="maps-container">
-                <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1jTby0K02_bTbke1fUir3CyWH3PU" width="640"
-                        height="480"></iframe>
+                    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1jTby0K02_bTbke1fUir3CyWH3PU" width="640"
+                            height="480"></iframe>
                 </div>
                 <p>
                 <ol>
@@ -36,7 +36,7 @@
                 <h3>Fietsparcours</h3>
                 <div class="maps-container">
                     <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1edenknYIIwfPFl8t-ubCKvrpHOs" width="640"
-                        height="480"></iframe>
+                            height="480"></iframe>
                 </div>
                 <p>
                 <ol>
@@ -51,8 +51,8 @@
 
                 <h3>Loopparcours</h3>
                 <div class="maps-container">
-                <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PzIT3E1OoO44yTGyg1GNnAXUrAQ" width="640"
-                        height="480"></iframe>
+                    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PzIT3E1OoO44yTGyg1GNnAXUrAQ" width="640"
+                            height="480"></iframe>
                 </div>
                 <p>
                 <ol>
@@ -66,17 +66,7 @@
 
 
             </div>
-            <div class="col-12 col-lg-4 col-md-3 sm-12">
-                <div class="side-bar">
-                    <h2>Nieuws</h2>
-                    <p>Incididunt sirloin chicken biltong do aliqua doner bacon kevin shoulder dolore. Cillum ullamco
-                        t-bone, ball tip pancetta dolor tempor corned beef aute pork chop. Labore commodo strip steak
-                        chuck, dolore alcatra burgdoggen ut. Pancetta exercitation sed shankle bacon ipsum laborum pork
-                        chop biltong qui t-bone occaecat nostrud. In incididunt ham hock, dolore lorem occaecat
-                        cupidatat venison boudin deserunt short ribs in hamburger velit magna. Shank turducken
-                        landjaeger alcatra non qui kielbasa in hamburger picanha laboris meatball doner labore.</p>
-                </div>
-            </div>
+            <?php require 'sidebar.php' ?>
         </div>
     </div>
 
