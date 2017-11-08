@@ -24,10 +24,11 @@
                     direct omgezet in een diskwalificatie.</p>
 
                 <h4>Dragen wetsuit</h4>
-                <p>Voor jeugd, junioren, U23 en elite is het dragen van een wetsuit verplicht bij een temperatuur onder
-                    15,9&#8451; en verboden boven een temperatuur van 20&#8451;.
-                    Voor de age&ndash;groep is het dragen van een wetsuit verplicht bij een temperatuur onder 15,9&#8451;
-                    en verboden boven een temperatuur van 22&#8451;.</p>
+                <p>Voor jeugd, junioren, U23 en elite is het dragen van een wetsuit verplicht bij een watertemperatuur
+                    onder
+                    15,9&#8451; en verboden boven een watertemperatuur van 20&#8451;.
+                    Voor de age&ndash;groep is het dragen van een wetsuit verplicht bij een watertemperatuur onder 15,9&#8451;
+                    en verboden boven een watertemperatuur van 22&#8451;.</p>
 
             </div>
             <?php require 'sidebar.php' ?>

@@ -16,7 +16,7 @@
                     de finish.
                     <br>
                     Hieronder tref je de omschrijvingen van het parcours. Lees deze informatie goed door zodat je als
-                    deelnemer tijdens de triatlon niet voor verassingen komt te staan.
+                    deelnemer tijdens de triathlon niet voor verrassingen komt te staan.
                 </p>
 
                 <h3>Zwemparcours</h3>
@@ -27,7 +27,7 @@
 
                 <ol>
                     <li>Start is bij de sluis</li>
-                    <li>250m rechtdoor zwemmen tot aan het keerpunt</li>
+                    <li>350m rechtdoor zwemmen tot aan het keerpunt</li>
                     <li>Na keerpunt terugzwemmen naar steiger bij De Buizerd</li>
                     <li>Uit het water bij de steiger en wisselen in de wisselzone</li>
                 </ol>

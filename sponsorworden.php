@@ -48,36 +48,6 @@
                     <br>
                     <table>
                         <td>
-                            <li>Naamsponsor pilot Team Relay &#40;exclusief&#41;</li>
-                        </td>
-                        <td class="align-right">&euro; 500,&ndash;</td>
-                        </tr></table>
-                    <br>
-                    Triathlon Langedijk stelt hiervoor ter beschikking&#59;
-                    <ul>
-                        <li>Naamgeving aan de pilot Team Relay, de sprintestafette die voorafgaand aan de individuele
-                            wedstrijd plaatsvindt
-                        </li>
-                        <li>Mogelijkheid tot plaatsing van &#40;eigen&#41; sponsorbord in het Parc Ferm&eacute; &#40;ca
-                            100cm hoog en 300cm breed&#41;
-                        </li>
-                        <li>Naamsvermelding door omroeper</li>
-                        <li>Naamsvermelding in alle communicatie-uitingen &#40;poster&#47;advertentie&#47;social
-                            media&#47;persberichten&#47;berichten deelnemers&#41;
-                        </li>
-                        <li>Logo plus link op de website</li>
-                        <li>Mogelijkheid tot stoppen van flyer&#47;give-away in deelnemerstasje</li>
-                        <li>10 consumptiebonnen voor een drankje na afloop in De Buizerd</li>
-                        <li>Gratis deelname aan de Team Relay &#40;2x&#41;</li>
-                        <li>Gratis deelname aan de triathlon voor individuele wedstrijd &#40;1x&#41; en triowedstrijd
-                            &#40;1x&#41;
-                        </li>
-                    </ul>
-                    <br>
-                    <hr>
-                    <br>
-                    <table>
-                        <td>
                             <li>Sponsor deelnemerstassen &#40;exclusief&#41;</li>
                         </td>
                         <td class="align-right">&euro; 500,&ndash;</td>

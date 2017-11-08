@@ -19,6 +19,13 @@
                 <h4>
                     <a href="http://www.zwefilo.nl/content/26867/download/clnt/44882_uitslag_triathlon_langedijk_overall_2013.pdf"
                        target="_blank">Uitslagen 2013</a></h4>
+                <h4>
+                    <a href="uitslag_heren_2012.pdf" target="_blank">Uitslagen heren 2012</a>
+                </h4>
+
+                <h4>
+                    <a href="uitslag_vrouwen_2012.pdf" target="_blank">Uitslagen dames 2012</a>
+                </h4>
             </div>
             <?php require 'sidebar.php' ?>
         </div>

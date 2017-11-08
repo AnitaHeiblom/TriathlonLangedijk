@@ -9,7 +9,7 @@
             <div class="col-12 col-lg-8 col-md-9 col-sm-12">
                 <h2>Publiek</h2>
                 <p>Ook voor het publiek is het evenement prima te volgen, doordat de atleten meerdere malen voorbij
-                    komen. Dat bleek de afgelopen jaren toen het publiek in grote getale langs het parcours stond.
+                    komen. Dat bleek de afgelopen jaren toen het publiek in grote getalen langs het parcours stond.
                     <br>
                     De eerste start is om 19.30 uur.
                     <br>
