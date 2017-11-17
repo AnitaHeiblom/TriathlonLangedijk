@@ -8,14 +8,9 @@
         <div class="row">
             <div class="col-12 col-lg-8 col-md-9 col-sm-12">
                 <h2>Parcours</h2>
-                <p>De parcoursen zijn ten opzichte van de vorige edities iets veranderd. 
+                <p>De parcoursen zijn ten opzichte van de vorige edities niet gewijzigd.</p>
                     <br>
-                    Het loopparcours wordt rechtsom gelopen. Dus vanuit de wisselzone gaan we rechtsaf richting
-                    fietspad. vanaf het fietspad gaan rechtsaf de Dorpsstraat in en we lopen dan richting het keerpunt.
-                    vanaf het keerpunt lopen we dan terug naar de Spoorstraat. dan lopen we de spoorstraat in richting
-                    de finish.
-                    <br>
-                    Hieronder tref je de omschrijvingen van het parcours. Lees deze informatie goed door zodat je als
+                <p>Hieronder tref je de omschrijvingen van het parcours. Lees deze informatie goed door zodat je als
                     deelnemer tijdens de triathlon niet voor verrassingen komt te staan.
                 </p>
 
@@ -56,10 +51,10 @@
                 </div>
                 <ol>
                     <li>Vanuit de wisselzone rechts richting het fietspad</li>
-                    <li>Het fietspad aflopen tot an de Dorpsstraat</li>
+                    <li>Het fietspad aflopen tot aan de Dorpsstraat</li>
                     <li>Rechtsaf de Dorpsstraat uitlopen tot aan keerpunt afslag Woudmeerweg (caf&eacute; de Knip)</li>
                     <li>Omkeren en teruglopen over de Dorpsstraat tot aan de Spoorstraat</li>
-                    <li>Rechtsaf de Spoorstraat inlopen en dan uitlopen tot aan de finish</li>
+                    <li>Linksaf de Spoorstraat inlopen en dan uitlopen tot aan de finish</li>
                 </ol>
                 <p>De deelnemers moeten zoveel mogelijk <strong>links</strong> van de weg blijven lopen.</p>
 

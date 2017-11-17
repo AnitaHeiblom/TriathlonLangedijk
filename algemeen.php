@@ -78,7 +78,7 @@
                     De Buizerd. Alle deelnemers wordt verzocht hierbij aanwezig te zijn.</p>
 
                 <h4>Het inschrijfbureau</h4>
-                <p>Het inshrijfbureau bevindt zich in De Buizerd en is vanaf 18.15 uur geopend. De
+                <p>Het inschrijfbureau bevindt zich in De Buizerd en is vanaf 18.15 uur geopend. De
                     deelnemers dienen zich hier uiterlijk een half uur voor de start te melden.
                     <br>
                     Bij het inschrijfbureau zijn veiligheidsspelden verkrijgbaar voor het bevestigen van het

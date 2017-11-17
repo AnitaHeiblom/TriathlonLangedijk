@@ -9,7 +9,7 @@
             <div class="col-12 col-lg-8 col-md-9 col-sm-12">
                 <h2>Sponsor worden?</h2>
                 <p>Hieronder een overzicht van de mogelijke sponsorpakketten. Wil je je aanmelden of heb je een vraag?
-                    Stuur ons een <a href="mailto:triathlonlangedijk@hotmail.com?Subject=Sponsoring">mail</a>.
+                    Stuur ons een <a href="mailto:triatlonlangedijk@hotmail.com?Subject=Sponsoring">mail</a>.
                 </p>
                 <ol>
                     <table>

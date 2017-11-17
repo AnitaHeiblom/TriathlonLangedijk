@@ -16,7 +16,7 @@
                     Na de triathlon is er blarenbal in hotel &ldquo;De Buizerd&rdquo;.
                     <br>
                     Als je vragen hebt, dan kun je die sturen naar: <a
-                            href="mailto:triathlonlangedijk@hotmail.com?Subject=Vraag">triatlonlangedijk@hotmail.com</a>.
+                            href="mailto:triatlonlangedijk@hotmail.com?Subject=Vraag">triatlonlangedijk@hotmail.com</a>.
                 </p>
             </div>
             <?php require 'sidebar.php' ?>

@@ -9,7 +9,8 @@
             <div class="col-12 col-lg-8 col-md-9 col-sm-12">
 
                 <h2>Welkom bij Triathlon Langedijk</h2>
-                <p>Triatlon Langedijk is een 1/8e triathlon die wordt gehouden in Oudkarspel, vlak boven Alkmaar. Het is
+                <p>Triathlon Langedijk is een 1/8e triathlon die wordt gehouden in Oudkarspel, vlak boven Alkmaar. Het
+                    is
                     een laagdrempelig evenement waar zowel toppers als de lokale recreanten meedoen en staat vooral voor
                     respect voor elkaar en voor gezelligheid.
                     Voor in de agenda:

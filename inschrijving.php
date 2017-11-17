@@ -22,11 +22,11 @@
                     <br>
                     Heb je twijfels of je inschrijving wel goed is gegaan dan kun je dit checken door een mail te sturen
                     naar
-                    <a href="mailto:triathlonlangedijk@hotmail.com?Subject=Inschrijving%202018">triatlonlangedijk@hotmail.com</a>.
+                    <a href="mailto:triatlonlangedijk@hotmail.com?Subject=Inschrijving%202018">triatlonlangedijk@hotmail.com</a>.
                     Je krijgt dan een bericht of je correct staat ingeschreven.</p>
 
                 <h4>Inschrijfgeld</h4>
-                <p> Het inschrijfgeld bedraagt voor de individuele serie &euro; 20,00 en voor de duo&rsquo;s/trio&rsquo;s
+                <p> Het inschrijfgeld bedraagt voor de individuele serie &euro; 19,00 en voor de duo&rsquo;s/trio&rsquo;s
                     &euro; 27,50. Elke
                     deelnemer betaalt verder &euro; 2,50 voor de huurchip van Mylaps die door de organisatie wordt
                     verstrekt.
